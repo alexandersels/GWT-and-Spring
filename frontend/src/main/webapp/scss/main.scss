@@ -1,0 +1,10 @@
+@import "base/reset";
+
+.navigation {
+  width: 100%;
+  height: 5rem;
+
+  &__container {
+    background-color: blue;
+  }
+}
